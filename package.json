@@ -1,0 +1,19 @@
+{
+  "name": "scriptengine",
+  "version": "1.0.0",
+  "description": "typescript game engine!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuathooyavan/ScriptEngine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuathooyavan/ScriptEngine/issues"
+  },
+  "homepage": "https://github.com/joshuathooyavan/ScriptEngine#readme"
+}
